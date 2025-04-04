@@ -1,6 +1,3 @@
-Here's a **README.md** file for your Iris Flower Classification project using Logistic Regression and Decision Tree Classifier:
-
----
 
 # **Iris Flower Classification Using Logistic Regression & Decision Tree Classifier**
 
